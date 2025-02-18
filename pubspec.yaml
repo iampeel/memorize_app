@@ -11,6 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
+  sqflite: ^2.3.2 # 로컬 DB
+  google_sign_in: ^6.2.1 # 구글 로그인
+  cloud_firestore: ^4.15.5 # 파이어스토어
+  provider: ^6.1.1 # 상태 관리
 
 dev_dependencies:
   flutter_test:
